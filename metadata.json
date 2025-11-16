@@ -1,0 +1,5 @@
+{
+  "name": "AI Audit Aid (AAA)",
+  "description": "An AI-assisted end-to-end auditing workflow for organizations such as aircraft maintenance organizations (EASA Part-145). The system ingests manuals, cross-references them against EU regulations to flag non-conformities, and produces summaries and questions to support auditors.",
+  "requestFramePermissions": []
+}

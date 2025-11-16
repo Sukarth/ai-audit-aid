@@ -1,0 +1,39 @@
+{
+  "name": "ai-audit-aid",
+  "version": "1.0.0",
+  "description": "AI-powered compliance auditing tool for regulatory frameworks - Built for Traficom @ Junction Hackathon",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "author": "Sukarth Acharya <https://github.com/sukarth>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sukarth/ai-audit-aid"
+  },
+  "keywords": [
+    "ai",
+    "audit",
+    "compliance",
+    "easa",
+    "regulatory",
+    "traficom",
+    "gemini",
+    "hackathon"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "@google/genai": "^1.29.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
